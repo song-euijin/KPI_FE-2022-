@@ -24,5 +24,5 @@ yarn-error.log*
 
 *.yarn
 *.lock
-*.json
+
 *.md
